@@ -627,6 +627,7 @@
 * [M3U4U](https://m3u4u.com/) - M3U Editor
 * [M3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE/blob/main/README.en.md) / [GUI](https://github.com/naravid19/N_m3u8DL_RE_GUI) or [M3u8DL-CLI](https://nilaoda.github.io/N_m3u8DL-CLI/) - ⁠M3U8 Download Tools
 * [IPTV Check](https://github.com/peterpt/IPTV-CHECK) - List Checker
+* * [IPTV2Live](https://iptv2live.com)
 
 ***
 
